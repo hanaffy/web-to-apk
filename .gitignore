@@ -1,0 +1,16 @@
+# Go project files
+*.exe
+*.exe~
+*.out
+*.test
+*.prof
+*.test.gz
+
+# Dependency directories (remove this line if you use vendor/)
+vendor/
+
+# Go binaries
+bin/
+
+# Build artifact
+/build/
